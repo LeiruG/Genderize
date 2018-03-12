@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Genderize</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="what_is_my_gender">What is my gender?</string>
+</resources>
